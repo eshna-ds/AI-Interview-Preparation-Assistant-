@@ -55,7 +55,7 @@ the higher your relevance score
 📦 Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/YourUsername/AI-Interview-Preparation-Assistant.git
+git clone https://github.com/eshna-ds/AI-Interview-Preparation-Assistant
 
 2. Navigate to project folder
 cd AI-Interview-Preparation-Assistant
